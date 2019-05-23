@@ -1,0 +1,40 @@
+{
+  "workTime": "0900 1730",
+
+  "size": "5",
+
+  "1": {
+    "requestSubmissionTime": "2011-03-17 10:17:06",
+    "employeeID": "EMP001",
+    "meetingStartTime": "2011-03-21 09:00",
+    "duration": "2"
+  },
+
+  "2": {
+    "requestSubmissionTime": "2011-03-16 12:34:56",
+    "employeeID": "EMP002",
+    "meetingStartTime": "2011-03-21 09:00",
+    "duration": "2"
+  },
+
+  "3": {
+    "requestSubmissionTime": "2011-03-16 09:28:23",
+    "employeeID": "EMP003",
+    "meetingStartTime": "2011-03-22 14:00",
+    "duration": "2"
+  },
+
+  "4": {
+    "requestSubmissionTime": "2011-03-17 11:23:45",
+    "employeeID": "EMP004",
+    "meetingStartTime": "2011-03-22 16:00",
+    "duration": "1"
+  },
+
+  "5": {
+    "requestSubmissionTime": "2011-03-15 17:29:12",
+    "employeeID": "EMP005",
+    "meetingStartTime": "2011-03-21 16:00",
+    "duration": "3"
+  }
+}
